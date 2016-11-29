@@ -1,6 +1,6 @@
 # Dockerfile
 
-FROM  https://github.com/rezacsedu/DockerImageSample/edit/master/Dockerfile
+FROM  rezacsedu/DockerImageSample
 
 MAINTAINER  Author Name <author@email.com>
 
