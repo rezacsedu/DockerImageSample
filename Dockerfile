@@ -1,6 +1,6 @@
 # Dockerfile
 
-FROM  phusion/baseimage:0.9.17
+FROM  https://github.com/rezacsedu/DockerImageSample/edit/master/Dockerfile
 
 MAINTAINER  Author Name <author@email.com>
 
